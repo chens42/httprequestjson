@@ -1,0 +1,2 @@
+this is a exercise of JSON.i didn't check httpPost, so i used the httpGet in the MainActivity.java.
+(ServiceHanlder.java contained httpPost)
